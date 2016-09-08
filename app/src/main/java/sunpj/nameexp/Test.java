@@ -5,7 +5,7 @@ package sunpj.nameexp;
  */
 public class Test {
     static {
-        System.loadLibrary("test");
+        System.loadLibrary("nameexp");
     }
 
     public native void test2();
